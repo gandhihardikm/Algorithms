@@ -4,4 +4,6 @@ Data Structure and algorithms
 
 # Contributors
 
-TBA
+* Pankaj Dighe
+* Hardik Gandhi
+* Ashish Bende
